@@ -1,0 +1,2 @@
+# Foundational-Document-of-e-Bitcoin-Design-of-a-Decentralized-Electronic-Ecosystem
+e-Bitcoin is a decentralized electronic ecosystem designed to provide industrial and financial services anchored to the Bitcoin network. It introduces interoperability, a universal time system, deterministic ordering, and verifiable future planning, solving structural limitations of electronic money and blockchain systems.
