@@ -159,3 +159,15 @@ Acts as the human-system interaction layer and continuous operational support me
 
 ---
 
+
+Preamble
+
+What you are about to read is organized into chapters that describe the order in which e-Bitcoin is built. Each chapter presents a component or principle of the system according to its technical dependencies and structural priority, so the reader can understand not only what e-Bitcoin is, but how it can be implemented step by step.
+
+These chapters are the project’s descriptive and functional layer: they explain what each module is, how it works, its characteristics, and which problem it solves within the ecosystem.
+
+Later, a separate document will be presented containing the technical and code specifications, written as manifestos and protocols, where the formats, rules, interfaces, and implementation requirements needed to build e-Bitcoin in a verifiable and standardized way are defined.
+
+The artificial intelligence model is presented as the final component because it is not required for e-Bitcoin’s core infrastructure to function. However, I recommend implementing it from the beginning, because it accelerates adoption, improves ecosystem operations, reduces errors, and enables education and correct use of the network from day one.
+
+
