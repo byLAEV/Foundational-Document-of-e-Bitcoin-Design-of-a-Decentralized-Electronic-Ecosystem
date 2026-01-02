@@ -171,3 +171,24 @@ Later, a separate document will be presented containing the technical and code s
 The artificial intelligence model is presented as the final component because it is not required for e-Bitcoin’s core infrastructure to function. However, I recommend implementing it from the beginning, because it accelerates adoption, improves ecosystem operations, reduces errors, and enables education and correct use of the network from day one.
 
 
+The double-time problem.
+A solution for interoperability in technology.
+
+Chapter 1 — TUC: Universal Time by Consensus
+
+What is the interoperability problem in technologies?
+
+What is double time?
+
+Introduction
+
+This Chapter 1 defines the double-time problem and explains why the absence of a solution to it is the root cause of the lack of interoperability across technologies. Based on these two questions, I establish the conceptual framework that justifies the need for TUC as a universal standard for time measurement and temporal ordering.
+
+What is double time?
+
+The double-time problem occurs when two or more communicating systems do not share the same time reference, and therefore record the same fact with different timestamps or cannot establish a single, unique order of events. In practice, one system timestamps an event using its own time (time zone, clock, configuration), while the other interprets it using a different time reference or a different logging rule. The result is confusion about when something happened, and also the possibility that two things appear to happen at the same time because there is no universal criterion to break ties and impose deterministic ordering.
+
+What is the interoperability problem in technologies?
+
+The interoperability problem in technologies is the inability of different systems (industrial, financial, blockchain, or any software) to operate together under a shared common standard, such that what one system records, interprets, and validates can be understood and verified by another without ambiguous translations or human arbitration.
+
