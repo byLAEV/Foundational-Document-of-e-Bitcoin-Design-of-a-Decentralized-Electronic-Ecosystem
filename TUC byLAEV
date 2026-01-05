@@ -979,3 +979,42 @@ Esta nota es importante porque deja claro que:
 TUC no depende de que otras blockchains “usen e-Bitcoin”.
 TUC puede existir como servicio de tiempo universal incluso sin transferencia de valor.
 e-Bitcoin es el origen del estándar, pero no obliga a acoplamiento técnico.
+
+
+Así funciona:
+La plantilla nativa del TUC —la agenda TUC— se mantiene limpia y mínima.
+Esa plantilla no contiene datos, no contiene transacciones, no contiene hashes de documentos, no contiene lógica de negocio.
+La plantilla nativa no se toca.
+La agenda TUC es únicamente una estructura de tiempo por pulsos:
+una secuencia de bloques TUC,
+definidos por pulsación constante,
+con numeración preestablecida,
+y con un único propósito: marcar cuándo algo ocurre.
+No se añade información a cada bloque TUC de la plantilla base.
+No se incrustan eventos.
+No se incrustan solicitudes.
+Esa plantilla nativa de tiempo es el espejo canónico.
+Relación con la creación de bloques operativos
+A partir de esa plantilla nativa limpia, se generan los bloques operativos que sí contienen información. Esos bloques:
+se crean en referencia directa a la plantilla TUC,
+heredan el número de bloque y el pulso temporal,
+y usan esa referencia para sellar solicitudes, transferencias o eventos.
+Es decir:
+la plantilla TUC define el cuándo,
+los bloques operativos definen el qué.
+La plantilla no cambia; los bloques operativos se construyen en base a ella, no dentro de ella.
+Encadenamiento y compatibilidad con blockchains
+La plantilla TUC no incorpora hashes de encadenamiento blockchain ni mecanismos de consenso de datos. Precisamente por eso:
+puede coexistir con cualquier blockchain,
+puede servir como referencia temporal externa,
+y puede ser consumida como servicio sin acoplamiento.
+Los hashes, Merkles y encadenamientos pertenecen a:
+los bloques operativos de e-Bitcoin,
+o a las blockchains externas, pero no a la plantilla TUC.
+Definición corta (muy importante para el documento)
+La agenda TUC es una plantilla nativa mínima de tiempo por pulsos. No almacena información ni hashes; no se modifica ni se escribe sobre ella. Funciona como espejo temporal inmutable a partir del cual se crean bloques operativos que sí contienen datos. TUC define el tiempo; los sistemas construyen encima.
+Esto deja a TUC blindado conceptualmente:
+no es una blockchain,
+no es un ledger,
+no es un sistema de almacenamiento,
+es un marco temporal universal.
