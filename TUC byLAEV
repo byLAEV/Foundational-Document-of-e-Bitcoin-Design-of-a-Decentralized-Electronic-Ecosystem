@@ -949,3 +949,33 @@ Recapitulando el funcionamiento integral del sistema TUC en e-Bitcoin, podemos d
 Este flujo – agenda → entrada → umbral → merkle → distribución → registro – demuestra la sólida orquestación de e-Bitcoin. La agenda garantiza planificación precisa; la entrada asegura admisión ordenada; el umbral marca la ejecución fiel en tiempo; el merkle brinda integridad y empaquetamiento; la distribución logra la interoperabilidad entregando los valores a cada red; y el registro cierra el ciclo dejando un historial unificado. Cada etapa es crítica y se encadena con la siguiente para proporcionar un proceso completo, confiable y transparente.
 
 En conclusión, e-Bitcoin con TUC ofrece una solución integral a problemas históricos en sistemas transaccionales: sincroniza tiempos, integra cadenas diversas y documenta todo en un solo libro mayor temporal. El resultado es un funcionamiento lineal, interoperable y certificado del movimiento de valor y la ejecución de compromisos a través del tiempo unificado, cumpliendo así la promesa planteada en la definición y alcances iniciales del sistema.
+
+
+Nota aparte — TUC como servicio temporal independiente (Time-as-a-Service)
+El TUC (Tiempo Universal por Consenso), junto con su agenda TUC y su sistema de umbral del tiempo presente, constituye un servicio autónomo que puede ser ofrecido a otras redes blockchain y sistemas tecnológicos sin añadir absolutamente nada a ningún bloque de dichas redes.
+Este servicio no requiere:
+anclaje de datos,
+inclusión de transacciones,
+inserción de hashes,
+ni modificación alguna del protocolo de bloques de la red externa.
+Lo que se ofrece es exclusivamente el marco temporal:
+la agenda TUC y la regla de cierre por umbral del presente, aplicadas como capa lógica de tiempo sobre los sistemas de reloj existentes de otras tecnologías.
+En este modelo, una red blockchain externa puede:
+conservar su propio mecanismo de consenso,
+conservar su estructura de bloques,
+conservar su reloj interno y su tiempo de bloque,
+y, aun así, sincronizar su interpretación temporal con la red e-Bitcoin utilizando TUC como referencia temporal común.
+La función del servicio TUC es permitir que sistemas heterogéneos:
+alineen eventos,
+comparen secuencias,
+y se comuniquen bajo un mismo marco temporal verificable,
+sin necesidad de compartir estado, datos ni bloques.
+De esta forma, TUC actúa como un protocolo de coordinación temporal inter-tecnológica, no como una capa de datos ni como un mecanismo de consenso externo impuesto.
+En términos prácticos:
+e-Bitcoin mantiene la fuente canónica del calendario TUC,
+otras redes consumen el servicio de tiempo para armonizar su lógica temporal,
+y la interoperabilidad se logra por alineación de tiempo, no por fusión de blockchains.
+Esta nota es importante porque deja claro que:
+TUC no depende de que otras blockchains “usen e-Bitcoin”.
+TUC puede existir como servicio de tiempo universal incluso sin transferencia de valor.
+e-Bitcoin es el origen del estándar, pero no obliga a acoplamiento técnico.
