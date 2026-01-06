@@ -189,3 +189,40 @@ In practice, one system timestamps an event using its own time settings (time zo
 ## What is the interoperability problem in technologies?
 
 The interoperability problem in technologies is the inability of different systems (industrial, financial, blockchain, or any software) to operate together under a shared common standard—so that what one system records, interprets, and validates can be understood and verified by another without ambiguous translations or human arbitration.
+
+
+My True and Real Story 
+
+I imagine myself standing in the middle of an infinite three-dimensional space. There are no edges, no walls, no “here” and “there” defined by anything. There is only space, without end. And that is where everything begins.
+
+I am an architect in training, and my thesis forced me to ask uncomfortable questions: what is architecture really when you remove the traditional setting? What do you design when space itself gives you no limits? At that point I understood something that, to me, is irrefutable: architecture is not only point A or point B. The most important thing is the path between them. The path A→B is where the real experience happens—where perception, memory, and meaning are built.
+
+What is common today is to prioritize the design of point A and point B. People design the origin and the destination as objects. But the path is left without intention. And when the path is not designed, movement becomes boring, empty, and unimportant. For me, that is an error in judgment: the path is the most important architectural space.
+
+When I take that position, I inevitably reach another conclusion: if the path is what matters, then you need references. You need a system that allows you to locate yourself, measure progress, interpret direction, recognize where you are, and understand how far you are from arriving. In an infinite three-dimensional space, without references, there is no “real” path; there is only movement without a frame. By logic, everything that moves needs points of reference in order to exist with meaning.
+
+That was when my obsession began to grow. Because I could not assimilate infinity. It consumed me. I spent many months with that idea inside me, turning it over and over, unable to close the concept in my mind. The problem was not academic; it was mental: how do you understand a space that never ends?
+
+Until one day I resolved it in a way that, for me, was brutally simple. I told myself: if space is infinite, it still has to be filled with something. It cannot be “nothing.” There must be a universal characteristic present throughout the entire infinity. And then I saw it clearly: that “something” is time.
+
+The moment I accepted that, the weight I carried disappeared. Because at last infinite three-dimensional space had an irrefutable foundation: time is everywhere. No matter where you are, time is happening. It is pulsing. It is marking presence. It is a constant.
+
+And then I defined time, for myself, as a constant pulse. Not as a nice clock, and not as a cultural convention, but as a phenomenon that can be understood as a sequence: pulse after pulse after pulse. A repetition. A rhythm. Something that exists even if you have no walls, even if you have no coordinates, even if you have no limits.
+
+After that, the only logical step was to analyze the rhythm of that pulse. If time is a pulse, then what matters is frequency: how fast it occurs, how it is measured, how it is discretized, how it becomes an operational unit. Because that is where it stops being only philosophy and becomes a system.
+
+That was the point at which my project was formally born: TUC, Time Universal by Consensus.
+
+I understood that the problem is not that time exists. The problem is that technologies do not share the same time. Each system lives inside its own clock, its own reference, its own interpretation. And that creates conflicts: conflicts of coordination, event ordering, verification, and communication between technologies. In blockchain networks this problem is obvious, because everything depends on the order of what happens. But my vision was never to limit it only to blockchain: this is a problem of the technology of the entire world, especially in the Internet of Things, where thousands or millions of devices must agree on what happened, when it happened, and in what order it happened.
+
+My hypothesis is simple: the lack of a common time generates communication conflicts. And my solution is just as direct: to create a time that does not depend on an individual clock, but on consensus.
+
+That is where blockchain enters as a tool. Because blockchain is not only “coins”; blockchain is a mechanism for consensus and verification. And if you can use consensus to agree on “what happened” and leave immutable evidence of it, then you can also use consensus to agree on “in which pulse of the present it happened.”
+
+That is why I speak of a TUC block and a threshold of the present: a way to register pulses and to order events with a temporal framework that is verifiable, common, and shared. What I seek is a time format that is not “my clock versus your clock,” but a universal time that exists because all participants agree on it and can verify it.
+
+That is how TUC is born: not as a technological whim, but as the logical consequence of a radical architectural question about infinity, the path, and the human—and technological—need for references.
+
+That is my world.
+
+I am Lerry Alexander Elizondo Villalobos, known as LAEV.
