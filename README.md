@@ -1,4 +1,4 @@
-# Foundational Document of e-Bitcoin: Design of a Decentralized Electronic Ecosystem for Industrial and Financial Services with Blockchain Anchoring
+# My proposal for my undergraduate thesis in architecture for a blockchain-based business model. Foundational Document of e-Bitcoin: Design of a Decentralized Electronic Ecosystem for Industrial and Financial Services with Blockchain Anchoring
 e-Bitcoin is a decentralized electronic ecosystem designed to provide industrial and financial services anchored to the Bitcoin network. It introduces interoperability, a universal time system, deterministic ordering, and verifiable future planning, solving structural limitations of electronic money and blockchain systems.
 
 Abstract — e-Bitcoin
